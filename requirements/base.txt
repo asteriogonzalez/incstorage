@@ -1,0 +1,7 @@
+Click>=7.1.2
+Faker
+glom
+jmespath
+sphinx-autobuild
+uswarm>=0.1.1
+
